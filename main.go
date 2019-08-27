@@ -1,7 +1,7 @@
 package main
 
 var (
-	name    = "null-provider"
+	name    = "aws-provider"
 	version = "1.0.0"
 )
 

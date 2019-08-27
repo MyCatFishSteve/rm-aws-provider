@@ -7,7 +7,7 @@ GO_TEST = $(GO) test
 GO_TEST_ARGS = -v
 
 BINPATH = bin
-BIN = rm-null-resource.so
+BIN = rm-aws-resource.so
 
 INSTALLPATH = ${HOME}/.resource-manager.d/plugins
 
